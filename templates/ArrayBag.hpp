@@ -1,7 +1,3 @@
-//Sylvia Lee Project 2 Professor Oyekoya
-//September 20th, 2021
-//ArrayBag header file implementation
-
 #ifndef ARRAY_BAG_
 #define ARRAY_BAG_
 
