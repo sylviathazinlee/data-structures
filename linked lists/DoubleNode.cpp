@@ -1,7 +1,3 @@
-//Sylvia Lee Project 3 Professor Oyekoya
-//October 14th, 2021
-//DoubleNode cpp file implementation
-
 #include <iostream>
 #include <string>
 
