@@ -2,6 +2,7 @@
 Title        : DoublyLinkedList.hpp
 Description  : header/interface file of a Doubly-Linked List ADT
 Dependencies : DoubleNode.cpp, DoubleNode.hpp
+Addendum     : DO NOT ALTER THIS FILE 
 ****************************************************************************************************************************/
 
 #include "DoubleNode.hpp"
