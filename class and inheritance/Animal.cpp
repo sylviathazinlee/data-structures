@@ -1,8 +1,3 @@
-//Sylvia Lee Project 1 Professor Oyekoya
-//August 30th, 2021
-//Animal cpp code implementation
-
-
 #include "Animal.hpp"
 #include <iostream>
 #include <string>
