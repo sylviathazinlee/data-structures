@@ -1,7 +1,3 @@
-//Sylvia Lee Project 3 Professor Oyekoya
-//October 14th, 2021
-//DoublyLinkedList hpp file implementation
-
 #ifndef DOUBLY_LINKED_LIST_
 #define DOUBLY_LINKED_LIST_
 #include "DoubleNode.hpp"
