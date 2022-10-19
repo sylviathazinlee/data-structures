@@ -1,8 +1,3 @@
-//Sylvia Lee Project 1 Professor Oyekoya
-//August 30th, 2021
-//Fish header file code implementation
-
-
 #ifndef FISH_H_
 #define FISH_H_
 #include <string>
