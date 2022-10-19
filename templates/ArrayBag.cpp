@@ -1,8 +1,3 @@
-//Sylvia Lee Project 2 Professor Oyekoya
-//September 20th, 2021
-//ArrayBag cpp file implementation
-
-
 #include "ArrayBag.hpp"
 #include <iostream>
 #include <string>
