@@ -1,8 +1,3 @@
-//Sylvia Lee Project 1 Professor Oyekoya
-//August 30th, 2021
-//Animal header file code implementation
-
-
 #ifndef ANIMAL_H_
 #define ANIMAL_H_
 #include <string>
