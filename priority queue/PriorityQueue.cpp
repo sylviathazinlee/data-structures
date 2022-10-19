@@ -1,7 +1,3 @@
-//Sylvia Lee Project 5 Professor Oyekoya
-//November 23rd, 2021
-//PriorityQueue cpp file implementation
-
 #include <iostream>
 
 /* Default Constructor */
