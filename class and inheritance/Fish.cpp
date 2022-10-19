@@ -1,8 +1,3 @@
-//Sylvia Lee Project 1 Professor Oyekoya
-//August 30th, 2021
-//Fish cpp code implementation
-
-
 #include "Fish.hpp"
 #include <iostream>
 #include <string>
