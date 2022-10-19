@@ -1,8 +1,3 @@
-//Sylvia Lee Project 1 Professor Oyekoya
-//August 30th, 2021
-//Bird header file code implementation
-
-
 #ifndef BIRD_H_
 #define BIRD_H_
 #include <iostream>
