@@ -1,8 +1,3 @@
-//Sylvia Lee Project 1 Professor Oyekoya
-//August 30th, 2021
-//Mammal header file code implementation
-
-
 #ifndef MAMMAL_H_
 #define MAMMAL_H_
 #include <string>
